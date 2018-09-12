@@ -1,0 +1,4 @@
+{
+    "python.pythonPath": "${workspaceFolder}/angr/bin/python",
+    "python.linting.enabled": false
+}
